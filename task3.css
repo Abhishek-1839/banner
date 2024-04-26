@@ -1,0 +1,256 @@
+.box{
+    width:50%;
+    margin: auto;
+    background-color: rgb(43, 45, 61);
+}
+.heading{
+    width:50% !important;
+    margin:auto !important;
+    
+}
+/* .section-0{
+    color: orangered;
+    margin-left: 120px;
+} */
+img{
+    margin: 20px 0px 10px 0px;
+    float:left; 
+}
+.container{
+    margin:0;
+}
+.header1{
+    display: flex;
+    gap:10px;
+    justify-content: center;
+    align-items: center;
+}
+/* .header1 img{
+    margin:10px 0px 0px 130px;
+} */
+.ast{
+    color:red;
+    /* display: flex;
+    flex-direction: column;
+    align-items: center; */
+   
+    
+}
+.ast p{
+    margin-bottom: -8px !important;
+    
+}
+.div{
+    width:50% !important;
+}
+.colum-1{
+    background-color:orange;
+    height: 41vh;
+}
+.colum-2{
+    background-color:rgba(17, 208, 218, 0.786);
+}
+/* .main.fa{
+    align-items: center;
+} */
+.section-1{
+    margin-top: 35px;
+}
+.section-7{
+    margin-top: 35px;
+}
+.section-7 .colum-2{
+    background-color:rgb(232, 73, 73);;
+    height: 45vh;
+}
+.section-7 .colum-1{
+    background-color:rgba(17, 208, 218, 0.786);
+    height: 45vh;
+}
+.section-7 .colum-1 .part-2{
+   font-size: 15px;
+}
+.section-7 .colum-1 .part-3{
+    font-size: 15px;
+ }
+.section-2{
+    margin-top: 35px;
+    /* height:31vh; */
+    
+}
+
+/* .div{
+    width:50% !important;
+} */
+.par-1{
+    /* background-color: black; */
+    /* display: flex; */
+    height:15vh;
+}
+.par-1 p{
+    color: white;
+    font-weight: 800;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+.par-2{
+    /* background-color: white; */
+    height:15vh;
+}
+.par-2 p{
+    margin-top: 0;
+}
+.sec-2{
+    width: auto;
+}
+.sec-2 p{
+    text-align: center;
+}
+.section-3{
+    margin-top: 35px;
+}
+.colum-3{
+    background-color:rgba(17, 208, 218, 0.786);
+    height: 41vh;
+}
+.colum-3 .part-1{
+    font-size: 20px;
+    text-align: left;
+    margin-top: 20px;
+}
+.part-1{
+    color: white;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+}
+.part-2{
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    margin:0;
+}
+.part-3{
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    margin-left: 25px;
+}
+.part-4{
+    color: white;
+    font-weight: 750;
+    text-align: center;
+}
+.part-5{
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+.csimg-1{
+    height: 35px;
+    display: block;
+    margin: 30px 0px 0px 25px;
+    align-items: center;
+    padding-left: 5px;
+    /* float: left; */
+}
+.part-6{
+    color: white;
+    font-size: 15px;
+    margin-top: 45px;
+}
+
+.part-7{
+    font-size: 25px;
+    font-weight: 800;
+    color: white;
+}
+.box-2{
+    height:25vh;
+    width: 66.8vh;
+    margin-top: 20px;
+    margin-left: 46.2px;
+    background-color: rgb(232, 73, 73);;
+}
+.hed1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 40px;
+}
+.csimg-2{
+    height: 35px;
+    display: block;
+    margin: 30px 0px 0px 25px;
+    align-items: center;
+    padding-left: 5px;
+}
+.section-4{
+    height: 55vh;
+    margin-top: 35px;
+}
+
+.section-4 .colum-1{
+    background-color:rgb(232, 73, 73);;
+    height: 51vh;
+    align-items: center;
+    color: white;
+}
+.section-4 .colum-2{
+    background-color:orange;
+}
+.section-4 .colum-1 .part-1{
+   
+    font-size: 25px;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 50px;
+}
+.section-4 .colum-1 .part-2{
+    text-align: center;
+}
+.section-4 .colum-2 .part-2{
+    margin-left: -10px;
+}
+/* .section-6{
+    margin-top: 35px;
+    background-color:rgba(17, 208, 218, 0.786);
+    height: 21vh;
+    color: white;
+}
+.section-6 .div{
+  width: 100%;
+} */
+.section-5{
+    
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+
+.section-5 .colum-1{
+    background-color:rgba(17, 208, 218, 0.786);
+    /* height: 51vh; */
+    height: 21vh;
+    width: 100%;
+    align-items: center;
+    color: white;
+}
+.section-6{
+    
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+
+.section-6 .colum-1{
+    background-color:orange;
+    /* height: 51vh; */
+    height: 21vh;
+    width: 100%;
+    align-items: center;
+    color: white;
+}
+/* .colum-3{
+    background-color:rgba(17, 208, 218, 0.786);
+    height: 41vh;
+} */
